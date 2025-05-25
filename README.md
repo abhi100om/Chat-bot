@@ -105,7 +105,7 @@ Open `frontend/client.html` in any modern browser.
 
 ## 📷 Preview
 
-![Chat UI Screenshot](preview.png) *(optional)*
+![Chat UI Screenshot](chatbot.png) *(optional)*
 
 ---
 
